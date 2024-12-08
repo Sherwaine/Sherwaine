@@ -6,7 +6,7 @@ Hi there! I'm Sherwaine Hui, an aspiring **Data Scientist** and **Machine Learni
 
 ## 🚀 Skills & Technologies
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, SQL,HTML,CSS
 - **Data Science Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 - **Deep Learning**: CNN, RNN, LSTM, GAN
