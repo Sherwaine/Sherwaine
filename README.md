@@ -11,7 +11,7 @@ Hi there! I'm **Sherwaine Hui**, a passionate **Data Scientist** and **Machine L
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 - **Deep Learning**: CNN, RNN, LSTM, GAN
 - **Data Engineering**: MySQL, Streamlit, Power BI, Tableau
-- **Web Scraping**: BeautifulSoup, Selenium, APIs
+- **Web Scraping**: Selenium, APIs
 
 ---
 
@@ -77,7 +77,12 @@ Here are some of the key projects I’ve worked on:
 ### 6. **[Project EDA Webscraper for E-commerce](https://github.com/Sherwaine/Project-EDA-Webscraper-for-E-commerce)**
    - **Overview**: A web scraping tool that extracts product data from e-commerce websites and performs **Exploratory Data Analysis (EDA)** to analyze product pricing, categories, and other trends. The tool helps gather valuable insights for market research or product analysis.
    - **Key Concepts**: Web Scraping, EDA, Data Cleaning, Data Visualization.
-   - **Technologies Used**: Python, BeautifulSoup, Requests, Pandas, Matplotlib, Seaborn.
+   - **Technologies Used**: Python, Selenium, Pandas, Matplotlib, Seaborn.
+
+### 7. **[Coffee Bot](https://github.com/Sherwaine/Coffee-Bot)**
+   - **Overview**: A simple Python chatbot that helps users order coffee. The bot guides the user through selecting the size, type, and milk preference of their drink, then prints a summary of the order.
+   - **Key Concepts**: Interactive Python Programs, User Input Handling, Recursion, Coffee Order Simulation.
+   - **Technologies Used**: Python.
 
 ---
 
